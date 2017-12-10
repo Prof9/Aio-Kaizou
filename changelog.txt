@@ -1,0 +1,5 @@
+v1.1 - 10 December 2017
+* Add compatibility for European version.
+
+v1.0 - 8 December 2017
+* Initial release.

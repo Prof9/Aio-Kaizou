@@ -20,9 +20,10 @@ namespace AioKaizou {
 		};
 
 		private enum GameVersion {
-			EXE4v10,
-			EXE4v11,
-			MMBN4
+			JPNv10,
+			JPNv11,
+			USA,
+			EUR
 		}
 
 		public Form1() {
@@ -32,11 +33,13 @@ namespace AioKaizou {
 		private void button1_Click(object sender, EventArgs e) {
 			GameVersion ver = 0;
 			if (radioButton1.Checked) {
-				ver = GameVersion.EXE4v10;
+				ver = GameVersion.JPNv10;
 			} else if (radioButton2.Checked) {
-				ver = GameVersion.EXE4v11;
+				ver = GameVersion.JPNv11;
 			} else if (radioButton3.Checked) {
-				ver = GameVersion.MMBN4;
+				ver = GameVersion.USA;
+			} else if (radioButton4.Checked) {
+				ver = GameVersion.EUR;
 			} else {
 				if (CultureInfo.CurrentUICulture.TwoLetterISOLanguageName == "ja") {
 					MessageBox.Show("ROMバージョンを選んでください！");
@@ -76,8 +79,8 @@ namespace AioKaizou {
 
 					bool bluemoon;
 					uint checksum = BitConverter.ToUInt32(save, 0x21E8 + shuffle);
-					uint checksumRS = CalcChecksum(save, shuffle, ver == GameVersion.MMBN4, false);
-					uint checksumBM = CalcChecksum(save, shuffle, ver == GameVersion.MMBN4, true);
+					uint checksumRS = CalcChecksum(save, shuffle, ver == GameVersion.USA || ver == GameVersion.EUR, false);
+					uint checksumBM = CalcChecksum(save, shuffle, ver == GameVersion.USA || ver == GameVersion.EUR, true);
 					if (checksum == checksumRS) {
 						bluemoon = false;
 					} else if (checksum == checksumBM) {
@@ -115,7 +118,7 @@ namespace AioKaizou {
 					// Enable kaizou menu.
 					SetFlag(save, shuffle, 0x0072, true);
 
-					checksum = CalcChecksum(save, shuffle, ver == GameVersion.MMBN4, bluemoon);
+					checksum = CalcChecksum(save, shuffle, ver == GameVersion.USA || ver == GameVersion.EUR, bluemoon);
 					Array.Copy(BitConverter.GetBytes(checksum), 0, save, 0x21E8 + shuffle, sizeof(uint));
 
 					EnDecrypt(save);
@@ -191,14 +194,17 @@ namespace AioKaizou {
 					}
 					if (j == 0x58) {
 						switch (ver) {
-						case GameVersion.EXE4v10:
+						case GameVersion.JPNv10:
 							s = 0x64EF;
 							break;
-						case GameVersion.EXE4v11:
+						case GameVersion.JPNv11:
 							s = 0x64F3;
 							break;
-						case GameVersion.MMBN4:
+						case GameVersion.USA:
 							s = 0x6513;
+							break;
+						case GameVersion.EUR:
+							s = 0x650B;
 							break;
 						}
 					}

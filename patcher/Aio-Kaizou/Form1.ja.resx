@@ -124,17 +124,29 @@
     <value>GBAセーブファイル (*.sav)|*.sav|すべてのファイル(*.*)|*.*</value>
   </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="radioButton4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>222, 17</value>
+  </data>
+  <data name="radioButton4.Text" xml:space="preserve">
+    <value>Mega Man Battle Network 4　（ヨーロッパ）</value>
+  </data>
+  <data name="radioButton3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>211, 17</value>
+  </data>
+  <data name="radioButton3.Text" xml:space="preserve">
+    <value>Mega Man Battle Network 4　（アメリカ）</value>
+  </data>
   <data name="radioButton2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>132, 17</value>
+    <value>188, 17</value>
   </data>
   <data name="radioButton2.Text" xml:space="preserve">
-    <value>ロックマンエグゼ４　v1.1</value>
+    <value>ロックマンエグゼ４　（日本語　v1.1）</value>
   </data>
   <data name="radioButton1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>132, 17</value>
+    <value>188, 17</value>
   </data>
   <data name="radioButton1.Text" xml:space="preserve">
-    <value>ロックマンエグゼ４　v1.0</value>
+    <value>ロックマンエグゼ４　（日本語　v1.0）</value>
   </data>
   <data name="groupBox1.Text" xml:space="preserve">
     <value>ROMバージョン</value>

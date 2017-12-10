@@ -27,6 +27,7 @@
 			this.button1 = new System.Windows.Forms.Button();
 			this.saveFileDialog1 = new System.Windows.Forms.SaveFileDialog();
 			this.groupBox1 = new System.Windows.Forms.GroupBox();
+			this.radioButton4 = new System.Windows.Forms.RadioButton();
 			this.radioButton3 = new System.Windows.Forms.RadioButton();
 			this.radioButton2 = new System.Windows.Forms.RadioButton();
 			this.radioButton1 = new System.Windows.Forms.RadioButton();
@@ -50,12 +51,20 @@
 			// 
 			// groupBox1
 			// 
+			this.groupBox1.Controls.Add(this.radioButton4);
 			this.groupBox1.Controls.Add(this.radioButton3);
 			this.groupBox1.Controls.Add(this.radioButton2);
 			this.groupBox1.Controls.Add(this.radioButton1);
 			resources.ApplyResources(this.groupBox1, "groupBox1");
 			this.groupBox1.Name = "groupBox1";
 			this.groupBox1.TabStop = false;
+			// 
+			// radioButton4
+			// 
+			resources.ApplyResources(this.radioButton4, "radioButton4");
+			this.radioButton4.Name = "radioButton4";
+			this.radioButton4.TabStop = true;
+			this.radioButton4.UseVisualStyleBackColor = true;
 			// 
 			// radioButton3
 			// 
@@ -125,6 +134,7 @@
 		private System.Windows.Forms.Label label1;
 		private System.Windows.Forms.Label label2;
 		private System.Windows.Forms.Panel panel1;
+		private System.Windows.Forms.RadioButton radioButton4;
 	}
 }
 

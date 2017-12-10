@@ -1,8 +1,8 @@
-![Example](img/example.gif)
+﻿![Example](img/example.gif)
 
 [Full video](https://www.youtube.com/watch?v=BYV1CQQKZlQ) by Eurasia_M
 
-# [Download v1.0](https://github.com/Prof9/Aio-Kaizou/releases/download/v1.0/EXE4-All-In-One-ModCard-Patcher.zip)
+# [Download v1.1](https://github.com/Prof9/Aio-Kaizou/releases/download/v1.1/EXE4-All-In-One-ModCard-Patcher.zip)
 
 EXE4 All-In-One ModCard Patcher
 ===============================

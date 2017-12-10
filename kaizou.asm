@@ -1,5 +1,5 @@
 CARD_NO equ 0
-ENGLISH equ 1
+REGION equ 1
 REVISION equ 0
 
 .gba
@@ -71,12 +71,21 @@ REVISION equ 0
 @@end:
 	// call sub_6510 then ED FF via ROP
 	push	r1-r7
-.if ENGLISH == 0
-	ldr	r1,=8006511h+2h
-.elseif REVISION == 1
-	ldr	r1,=80064F1h+2h
-.else
+.if REGION == 0 && REVISION == 0
+	// Japan v1.0
 	ldr	r1,=80064EDh+2h
+.endif
+.if REGION == 0 && REVISION == 1
+	// Japan v1.1
+	ldr	r1,=80064F1h+2h
+.endif
+.if REGION == 1
+	// North America
+	ldr	r1,=8006511h+2h
+.endif
+.if REGION == 2
+	// Europe
+	ldr	r1,=8006509h+2h
 .endif
 	bx	r1
 
