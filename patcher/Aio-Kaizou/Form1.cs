@@ -20,10 +20,8 @@ namespace AioKaizou {
 		};
 
 		private enum GameVersion {
-			JPNv10,
-			JPNv11,
-			USA,
-			EUR
+			JPN,
+			ENG,
 		}
 
 		public Form1() {
@@ -33,13 +31,9 @@ namespace AioKaizou {
 		private void button1_Click(object sender, EventArgs e) {
 			GameVersion ver = 0;
 			if (radioButton1.Checked) {
-				ver = GameVersion.JPNv10;
+				ver = GameVersion.JPN;
 			} else if (radioButton2.Checked) {
-				ver = GameVersion.JPNv11;
-			} else if (radioButton3.Checked) {
-				ver = GameVersion.USA;
-			} else if (radioButton4.Checked) {
-				ver = GameVersion.EUR;
+				ver = GameVersion.ENG;
 			} else {
 				if (CultureInfo.CurrentUICulture.TwoLetterISOLanguageName == "ja") {
 					MessageBox.Show("ROMバージョンを選んでください！");
@@ -49,6 +43,9 @@ namespace AioKaizou {
 				return;
 			}
 
+			if (!string.IsNullOrWhiteSpace(saveFileDialog1.FileName)) {
+				saveFileDialog1.FileName = Path.GetFileName(saveFileDialog1.FileName);
+			}
 			if (saveFileDialog1.ShowDialog() != DialogResult.OK) {
 				return;
 			}
@@ -79,8 +76,8 @@ namespace AioKaizou {
 
 					bool bluemoon;
 					uint checksum = BitConverter.ToUInt32(save, 0x21E8 + shuffle);
-					uint checksumRS = CalcChecksum(save, shuffle, ver == GameVersion.USA || ver == GameVersion.EUR, false);
-					uint checksumBM = CalcChecksum(save, shuffle, ver == GameVersion.USA || ver == GameVersion.EUR, true);
+					uint checksumRS = CalcChecksum(save, shuffle, ver == GameVersion.ENG, false);
+					uint checksumBM = CalcChecksum(save, shuffle, ver == GameVersion.ENG, true);
 					if (checksum == checksumRS) {
 						bluemoon = false;
 					} else if (checksum == checksumBM) {
@@ -104,10 +101,11 @@ namespace AioKaizou {
 					WriteMsgData(save, ver);
 
 					// Set card numbers.
+					byte[] cardIDs = new byte[] { 133, 3, 2, 14, 20, 28 };
 					for (int i = 0; i < 6; i++) {
 						save[0x4644 + shuffle + i] = 0x00;
 						save[0x464C + shuffle + i] = 0xFF;
-						save[0x4653 + shuffle + i] = 0x85;
+						save[0x4653 + shuffle + i] = cardIDs[i];
 					}
 
 					// Unlock all cards.
@@ -118,7 +116,7 @@ namespace AioKaizou {
 					// Enable kaizou menu.
 					SetFlag(save, shuffle, 0x0072, true);
 
-					checksum = CalcChecksum(save, shuffle, ver == GameVersion.USA || ver == GameVersion.EUR, bluemoon);
+					checksum = CalcChecksum(save, shuffle, ver == GameVersion.ENG, bluemoon);
 					Array.Copy(BitConverter.GetBytes(checksum), 0, save, 0x21E8 + shuffle, sizeof(uint));
 
 					EnDecrypt(save);
@@ -186,32 +184,32 @@ namespace AioKaizou {
 		}
 
 		private void WriteMsgData(byte[] save, GameVersion ver) {
-			for (int i = 0; i < 6; i++) {
-				for (int j = 0; j < 0x5C; j += 2) {
-					ushort s = BitConverter.ToUInt16(MSG_DATA, j);
-					if (j == 0x26 || j == 0x2E || j == 0x3E) {
-						s += (ushort)(i << 6);
-					}
-					if (j == 0x58) {
-						switch (ver) {
-						case GameVersion.JPNv10:
-							s = 0x64EF;
-							break;
-						case GameVersion.JPNv11:
-							s = 0x64F3;
-							break;
-						case GameVersion.USA:
-							s = 0x6513;
-							break;
-						case GameVersion.EUR:
-							s = 0x650B;
-							break;
-						}
-					}
-					save[0x1EA0 + i * 0x5C + j] = (byte)s;
-					save[0x1EA0 + i * 0x5C + j + 1] = (byte)(s >> 8);
-				}
+			byte[] card = Properties.Resources.card;
+			byte[] save_ext = null;
+			switch (ver) {
+			case GameVersion.JPN:
+				save_ext = Properties.Resources.save_ext_jp_lz;
+				break;
+			case GameVersion.ENG:
+				save_ext = Properties.Resources.save_ext_en_lz;
+				break;
 			}
+
+			for (int i = 0; i < 6; i++) {
+				for (int j = 0; j < 0x5C; j++) {
+					save[0x1EA0 + i * 0x5C + j] = 0x00;
+				}
+				Array.Copy(card, 0, save, 0x1EA0 + i * 0x5C, card.Length);
+			}
+
+			for (int j = 0x73D4; j < 0x8000; j++) {
+				save[j] = 0xFF;
+			}
+			Array.Copy(save_ext, 0, save, 0x73D4, save_ext.Length);
+		}
+
+		private void radioButton_CheckedChanged(object sender, EventArgs e) {
+			button1.Enabled = true;
 		}
 	}
 }

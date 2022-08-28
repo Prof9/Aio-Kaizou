@@ -112,10 +112,10 @@
     <value>2.0</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="button1.Text" xml:space="preserve">
     <value>セーブファイルを選ぶ</value>
@@ -123,30 +123,18 @@
   <data name="saveFileDialog1.Filter" xml:space="preserve">
     <value>GBAセーブファイル (*.sav)|*.sav|すべてのファイル(*.*)|*.*</value>
   </data>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="radioButton4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>222, 17</value>
-  </data>
-  <data name="radioButton4.Text" xml:space="preserve">
-    <value>Mega Man Battle Network 4　（ヨーロッパ）</value>
-  </data>
-  <data name="radioButton3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>211, 17</value>
-  </data>
-  <data name="radioButton3.Text" xml:space="preserve">
-    <value>Mega Man Battle Network 4　（アメリカ）</value>
-  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="radioButton2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>188, 17</value>
+    <value>191, 17</value>
   </data>
   <data name="radioButton2.Text" xml:space="preserve">
-    <value>ロックマンエグゼ４　（日本語　v1.1）</value>
+    <value>Mega Man Battle Network 4 (英語)</value>
   </data>
   <data name="radioButton1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>188, 17</value>
+    <value>159, 17</value>
   </data>
   <data name="radioButton1.Text" xml:space="preserve">
-    <value>ロックマンエグゼ４　（日本語　v1.0）</value>
+    <value>ロックマンエグゼ４　（日本語）</value>
   </data>
   <data name="groupBox1.Text" xml:space="preserve">
     <value>ROMバージョン</value>
@@ -155,11 +143,15 @@
     <value>267, 42</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>エグゼ４　オールインワンな改造カードパッチャー　v1.1
+    <value>エグゼ４　オールインワンな改造カードパッチャー　v2.0
 作成者：Prof. 9</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>このアプリケーションはロックマンエグゼ４、またはメガマンバトルネットワークのセーブファイルをパッチして”オールインワン改造カード”をロックマン画面に追加します。セレクトボタン（長押しも可能）でそれぞれのスロットの改造カードを変更できます。画面をリフレッシュすることで変更が適用されます。</value>
+    <value>このアプリケーションはロックマンエグゼ４、またはメガマンバトルネットワークのセーブファイルをパッチして”オールインワン改造カード”をロックマン画面に追加します。LRボタン（長押しも可能）でそれぞれのスロットの改造カードを変更できます。画面をリフレッシュすることで変更が適用されます。</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="$this.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>Inherit</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
     <value>AIOな改造パッチャー</value>

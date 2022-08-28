@@ -1,5 +1,19 @@
+v2.0 - 28 August 2022
+ *  Buttons changed to L / R: you can now both decrease and increase the card
+    number, rather than only increase it.
+ *  The All-In-One ModCards now show the full effect names. To achieve this,
+    extra code and text data is written to the end of the save file (behind all
+    normal save data).
+ *  Now plays a sound effect when the card number is changed.
+ *  Each All-In-One ModCard now only lets you choose the card numbers that can
+    actually go into that address legitimately. Similarly, it only lets you
+    choose the Soul ModCards that can be used in your game's version
+    legitimately.
+ *  Due to technical changes, now you only need to choose between Japanese or
+    English when choosing your ROM version.
+
 v1.1 - 10 December 2017
-* Add compatibility for European version.
+ *  Add compatibility for European version.
 
 v1.0 - 8 December 2017
-* Initial release.
+ *  Initial release.

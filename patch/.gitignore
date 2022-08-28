@@ -1,0 +1,11 @@
+# Temp folder
+_temp/
+
+# Third party tools
+tools/*.exe
+tools/*.dll
+!tools/LibTextPet.dll
+!tools/TextPet.exe
+
+# Shortcuts
+*.lnk
