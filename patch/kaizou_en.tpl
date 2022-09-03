@@ -8,8 +8,8 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -23,8 +23,8 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -38,8 +38,8 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -53,8 +53,8 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -68,8 +68,8 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -83,8 +83,8 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -98,8 +98,8 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -113,8 +113,8 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -128,8 +128,8 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -143,8 +143,8 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -158,8 +158,8 @@ script 10 mmbn4 {
 script 11 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -174,8 +174,8 @@ script 11 mmbn4 {
 script 12 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -190,8 +190,8 @@ script 12 mmbn4 {
 script 13 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -205,8 +205,8 @@ script 13 mmbn4 {
 script 14 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -220,8 +220,8 @@ script 14 mmbn4 {
 script 15 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -235,8 +235,8 @@ script 15 mmbn4 {
 script 16 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -250,8 +250,8 @@ script 16 mmbn4 {
 script 17 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -266,8 +266,8 @@ script 17 mmbn4 {
 script 18 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -282,8 +282,8 @@ script 18 mmbn4 {
 script 19 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -298,8 +298,8 @@ script 19 mmbn4 {
 script 20 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -313,8 +313,8 @@ script 20 mmbn4 {
 script 21 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -328,8 +328,8 @@ script 21 mmbn4 {
 script 22 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -343,8 +343,8 @@ script 22 mmbn4 {
 script 23 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -358,8 +358,8 @@ script 23 mmbn4 {
 script 24 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -373,8 +373,8 @@ script 24 mmbn4 {
 script 25 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -388,8 +388,8 @@ script 25 mmbn4 {
 script 26 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -403,8 +403,8 @@ script 26 mmbn4 {
 script 27 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -418,8 +418,8 @@ script 27 mmbn4 {
 script 28 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -433,8 +433,8 @@ script 28 mmbn4 {
 script 29 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -448,8 +448,8 @@ script 29 mmbn4 {
 script 30 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -463,8 +463,8 @@ script 30 mmbn4 {
 script 31 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -478,8 +478,8 @@ script 31 mmbn4 {
 script 32 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -493,8 +493,8 @@ script 32 mmbn4 {
 script 33 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -508,8 +508,8 @@ script 33 mmbn4 {
 script 34 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -523,8 +523,8 @@ script 34 mmbn4 {
 script 35 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -539,8 +539,8 @@ script 35 mmbn4 {
 script 36 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -555,8 +555,8 @@ script 36 mmbn4 {
 script 37 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -570,8 +570,8 @@ script 37 mmbn4 {
 script 38 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -586,8 +586,8 @@ script 38 mmbn4 {
 script 39 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -601,8 +601,8 @@ script 39 mmbn4 {
 script 40 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -616,8 +616,8 @@ script 40 mmbn4 {
 script 41 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -631,8 +631,8 @@ script 41 mmbn4 {
 script 42 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -646,8 +646,8 @@ script 42 mmbn4 {
 script 43 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -661,8 +661,8 @@ script 43 mmbn4 {
 script 44 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -676,8 +676,8 @@ script 44 mmbn4 {
 script 45 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -691,8 +691,8 @@ script 45 mmbn4 {
 script 46 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -707,8 +707,8 @@ script 46 mmbn4 {
 script 47 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -722,8 +722,8 @@ script 47 mmbn4 {
 script 48 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -737,8 +737,8 @@ script 48 mmbn4 {
 script 49 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -753,8 +753,8 @@ script 49 mmbn4 {
 script 50 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -769,8 +769,8 @@ script 50 mmbn4 {
 script 51 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -784,8 +784,8 @@ script 51 mmbn4 {
 script 52 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -799,8 +799,8 @@ script 52 mmbn4 {
 script 53 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -814,8 +814,8 @@ script 53 mmbn4 {
 script 54 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -829,8 +829,8 @@ script 54 mmbn4 {
 script 55 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -844,8 +844,8 @@ script 55 mmbn4 {
 script 56 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -859,8 +859,8 @@ script 56 mmbn4 {
 script 57 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -874,8 +874,8 @@ script 57 mmbn4 {
 script 58 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -889,8 +889,8 @@ script 58 mmbn4 {
 script 59 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -904,8 +904,8 @@ script 59 mmbn4 {
 script 60 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -919,8 +919,8 @@ script 60 mmbn4 {
 script 61 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -934,8 +934,8 @@ script 61 mmbn4 {
 script 62 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -949,8 +949,8 @@ script 62 mmbn4 {
 script 63 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -964,8 +964,8 @@ script 63 mmbn4 {
 script 64 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -979,8 +979,8 @@ script 64 mmbn4 {
 script 65 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -994,8 +994,8 @@ script 65 mmbn4 {
 script 66 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1010,8 +1010,8 @@ script 66 mmbn4 {
 script 67 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1026,8 +1026,8 @@ script 67 mmbn4 {
 script 68 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1041,8 +1041,8 @@ script 68 mmbn4 {
 script 69 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1056,8 +1056,8 @@ script 69 mmbn4 {
 script 70 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1071,8 +1071,8 @@ script 70 mmbn4 {
 script 71 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1086,8 +1086,8 @@ script 71 mmbn4 {
 script 72 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1101,8 +1101,8 @@ script 72 mmbn4 {
 script 73 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1116,8 +1116,8 @@ script 73 mmbn4 {
 script 74 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1131,8 +1131,8 @@ script 74 mmbn4 {
 script 75 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1146,8 +1146,8 @@ script 75 mmbn4 {
 script 76 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1162,8 +1162,8 @@ script 76 mmbn4 {
 script 77 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1178,8 +1178,8 @@ script 77 mmbn4 {
 script 78 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1194,8 +1194,8 @@ script 78 mmbn4 {
 script 79 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1209,8 +1209,8 @@ script 79 mmbn4 {
 script 80 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1224,8 +1224,8 @@ script 80 mmbn4 {
 script 81 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1239,8 +1239,8 @@ script 81 mmbn4 {
 script 82 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1254,8 +1254,8 @@ script 82 mmbn4 {
 script 83 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1269,8 +1269,8 @@ script 83 mmbn4 {
 script 84 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1284,8 +1284,8 @@ script 84 mmbn4 {
 script 85 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1299,8 +1299,8 @@ script 85 mmbn4 {
 script 86 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1314,8 +1314,8 @@ script 86 mmbn4 {
 script 87 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1329,8 +1329,8 @@ script 87 mmbn4 {
 script 88 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1344,8 +1344,8 @@ script 88 mmbn4 {
 script 89 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1359,8 +1359,8 @@ script 89 mmbn4 {
 script 90 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1374,8 +1374,8 @@ script 90 mmbn4 {
 script 91 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1390,8 +1390,8 @@ script 91 mmbn4 {
 script 92 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1405,8 +1405,8 @@ script 92 mmbn4 {
 script 93 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1421,8 +1421,8 @@ script 93 mmbn4 {
 script 94 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1436,8 +1436,8 @@ script 94 mmbn4 {
 script 95 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1452,8 +1452,8 @@ script 95 mmbn4 {
 script 96 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1467,8 +1467,8 @@ script 96 mmbn4 {
 script 97 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1483,8 +1483,8 @@ script 97 mmbn4 {
 script 98 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1498,8 +1498,8 @@ script 98 mmbn4 {
 script 99 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1514,8 +1514,8 @@ script 99 mmbn4 {
 script 100 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1530,8 +1530,8 @@ script 100 mmbn4 {
 script 101 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1545,8 +1545,8 @@ script 101 mmbn4 {
 script 102 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1560,8 +1560,8 @@ script 102 mmbn4 {
 script 103 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1575,8 +1575,8 @@ script 103 mmbn4 {
 script 104 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1590,8 +1590,8 @@ script 104 mmbn4 {
 script 105 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1606,8 +1606,8 @@ script 105 mmbn4 {
 script 106 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1622,8 +1622,8 @@ script 106 mmbn4 {
 script 107 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1637,8 +1637,8 @@ script 107 mmbn4 {
 script 108 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1652,8 +1652,8 @@ script 108 mmbn4 {
 script 109 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1668,8 +1668,8 @@ script 109 mmbn4 {
 script 110 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1684,8 +1684,8 @@ script 110 mmbn4 {
 script 111 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1699,8 +1699,8 @@ script 111 mmbn4 {
 script 112 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1714,8 +1714,8 @@ script 112 mmbn4 {
 script 113 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1729,8 +1729,8 @@ script 113 mmbn4 {
 script 114 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1744,8 +1744,8 @@ script 114 mmbn4 {
 script 115 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1759,8 +1759,8 @@ script 115 mmbn4 {
 script 116 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1774,8 +1774,8 @@ script 116 mmbn4 {
 script 117 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1789,8 +1789,8 @@ script 117 mmbn4 {
 script 118 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1804,8 +1804,8 @@ script 118 mmbn4 {
 script 119 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1819,8 +1819,8 @@ script 119 mmbn4 {
 script 120 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1834,8 +1834,8 @@ script 120 mmbn4 {
 script 121 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1850,8 +1850,8 @@ script 121 mmbn4 {
 script 122 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1866,8 +1866,8 @@ script 122 mmbn4 {
 script 123 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1882,8 +1882,8 @@ script 123 mmbn4 {
 script 124 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1898,8 +1898,8 @@ script 124 mmbn4 {
 script 125 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1914,8 +1914,8 @@ script 125 mmbn4 {
 script 126 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1930,8 +1930,8 @@ script 126 mmbn4 {
 script 127 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1946,8 +1946,8 @@ script 127 mmbn4 {
 script 128 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1962,8 +1962,8 @@ script 128 mmbn4 {
 script 129 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1978,8 +1978,8 @@ script 129 mmbn4 {
 script 130 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -1994,8 +1994,8 @@ script 130 mmbn4 {
 script 131 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -2010,8 +2010,8 @@ script 131 mmbn4 {
 script 132 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
@@ -2026,8 +2026,8 @@ script 132 mmbn4 {
 script 133 mmbn4 {
 	clearMsg
 	positionText
-		left = 57
-		top = 108
+		left = 69
+		top = 109
 		arrowDistance = 3
 	textSpeed
 		delay = 0
