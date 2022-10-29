@@ -1568,6 +1568,7 @@ script 103 mmbn4 {
 	"""
 	Custom #103
 	Chrg FullCust 1/2
+	Buggy
 	
 	"""
 	end
@@ -1583,6 +1584,7 @@ script 104 mmbn4 {
 	"""
 	Custom #104
 	Chrg FullCust 2/2
+	Buggy
 	
 	"""
 	end
@@ -1812,6 +1814,7 @@ script 119 mmbn4 {
 	"""
 	Custom #119
 	Chrg WideBlde
+	Buggy
 	
 	"""
 	end
@@ -1827,6 +1830,7 @@ script 120 mmbn4 {
 	"""
 	Custom #120
 	Chrg LongBlde
+	Buggy
 	
 	"""
 	end

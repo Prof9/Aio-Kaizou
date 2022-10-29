@@ -1,6 +1,6 @@
 ﻿![Example](img/example.gif)
 
-# [Download v2.1](https://github.com/Prof9/Aio-Kaizou/releases/download/v2.1/EXE4-All-In-One-ModCard-Patcher.zip)
+# [Download v2.2](https://github.com/Prof9/Aio-Kaizou/releases/download/v2.2/EXE4-All-In-One-ModCard-Patcher.zip)
 
 EXE4 All-In-One ModCard Patcher
 ===============================

@@ -1,3 +1,7 @@
+v2.2 - 29 October 2022
+ *  Fixed #103 Charge FullCustom 1/2, #104 Charge FullCustom, #119 Charge
+    WideBlade and #120 Charge LongBlade not listed as Buggy.
+
 v2.1 - 3 September 2022
  *  Fixed a minor text alignment inconsistency in the English version.
  *  Fixed a white line showing up in the Japanese description of certain cards.
